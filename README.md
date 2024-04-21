@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kunal Sharma
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning C++
 - 📫 Mail at contact@kunalsh.com
